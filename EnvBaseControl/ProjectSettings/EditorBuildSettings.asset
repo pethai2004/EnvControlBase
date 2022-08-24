@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Environments/RunPursuit/MultipleAlienRun.unity
+    guid: ce7201a30de034598a34ce5af721fdad
+  - enabled: 0
+    path: Assets/Environments/PakourRun/BasicRun.unity
+    guid: 8a5ee81e04b0245d087244e0d695508b
+  - enabled: 0
+    path: Assets/Environments/BallBalancing/BallBalance.unity
+    guid: 72de327abff114d07b290bcde0a17552
+  - enabled: 0
+    path: Assets/Environments/RunPursuit/RunDistanceSceneRobot.unity
+    guid: a9dde527b302543c3ac3c2286973eead
+  - enabled: 0
+    path: Assets/Environments/RunPursuit/RunDistanceSceneRobot 1.unity
+    guid: c037d8159e56b432f8e0384c301cf545
+  - enabled: 0
+    path: Assets/Environments/RunPursuit/RunDistanceSceneRobot 2.unity
+    guid: 9186b1dbbec084fb191603e5e6d0d8c4
+  - enabled: 0
+    path: Assets/Environments/RunPursuit/RunDistanceSceneRobot 3.unity
+    guid: b134f21f431194b46b830628313b9bdc
+  - enabled: 1
+    path: Assets/Environments/PakourRun/BlockRun.unity
+    guid: 5f80fc5e1c9ae4bd1be1df7fd5405675
+  m_configObjects: {}
